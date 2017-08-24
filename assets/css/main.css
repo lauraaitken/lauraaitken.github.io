@@ -1,3 +1,442 @@
+.borderone {
+    width:162px;
+    border-bottom:2px solid black;
+    border-top:2px solid black;
+    position:fixed;
+    background:white;
+}
+
+.paddingone {
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+.marginone {
+    margin-left:520px;
+}
+
+
+
+
+
+
+.bordertwo {
+    border:5px solid black;
+    width:200px;
+}
+
+.paddingtwo {
+    padding-left:1000px;
+    padding-right:1000px;
+    padding-top:300px;
+    padding-bottom:300px;
+}
+
+.margintwo {
+    
+}
+
+
+
+
+
+
+.borderthree {
+    border:4px solid black;
+    width:305px;
+    
+}
+
+
+.paddingthree {
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:30px;
+    padding-bottom:30px;
+    
+}
+
+
+
+
+
+
+
+.fourone {
+  font-size:5px  
+    
+}
+
+.fourtwo {
+    font-size:10px
+    
+}
+
+.fourthree {
+    font-size:15px
+    
+}
+
+.fourfour {
+    font-size:20px
+    
+}
+
+.fourfive {
+    font-size:25px
+    
+}
+
+.foursix {
+    font-size:30px
+    
+}
+
+.fourseven {
+    font-size:40px
+    
+}
+
+.foureight {
+    font-size:35px
+    
+}
+
+.fournine {
+    font-size:30px
+    
+}
+
+.fourten {
+    font-size:25px
+    
+}
+
+.foureleven {
+    font-size:20px
+    
+}
+
+
+.fourlevelone {
+    
+    font-family: gotham condensed;
+    font-style: italic;
+    text-align: center;
+    
+    
+}
+
+
+
+
+
+
+
+
+.levelfourtwo {
+    font-family:monospace;
+    font-size: 50px;
+    text-align:right;
+    
+    
+}
+
+
+
+
+
+
+.levelfourthree {
+    text-align:center;
+    font-family: quicksand;
+    line-height: 200px;
+    font-size: 150px;
+    
+    border: solid black;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top:30px;
+    padding-bottom:30px;
+    
+    
+}
+
+
+
+
+
+
+
+.levelfiveone{
+    background: yellow;
+    
+    padding-left:100px;
+    padding-right:100px;
+    padding-top:100px;
+    padding-bottom:100px;
+    
+    margin-top:100px;
+    
+    width: 810px;
+    font-family: futura; 
+    letter-spacing: 3px;
+    font-size: 30px;
+    color: deeppink;
+    
+}
+
+
+.levelfivetwo{
+    background: deeppink;
+    
+    padding-left:100px;
+    padding-right:100px;
+    padding-top:100px;
+    padding-bottom:100px;
+    
+    width: 810px;
+    font-family: futura; 
+    letter-spacing: 3px;
+    font-size: 30px;
+    color: yellow;
+    
+    
+}
+
+
+#two {
+    
+    position: absolute;
+    left: 265px;
+    top:300px;
+}
+
+
+
+
+
+
+.levelfiveparttwo {
+    
+    background: paleturquoise;
+    width: 1220px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: orator std;
+    font-size: 80px;
+    
+    
+}
+
+
+.levelfivepartthree {
+    
+     background: coral;
+    width: 1220px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: orator std;
+    font-size: 80px;
+    
+    
+}
+
+.levelfivepartfour {
+    
+     background: lemonchiffon;
+    width: 1220px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: orator std;
+    font-size: 80px;
+   
+    
+}
+
+.levelfivepartfive {
+    
+     background: lightpink;
+    width: 1220px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: orator std;
+    font-size: 80px;
+
+}
+
+
+
+.levelfivepartsix {
+    
+     background: paleturquoise;
+    width: 1220px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: orator std;
+    font-size: 80px;
+
+}
+
+
+
+.levelfivepartseven {
+    
+     background: coral;
+    width: 1220px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: orator std;
+    font-size: 80px;
+
+}
+
+
+
+
+.levelfiveparteight {
+    
+     background: lemonchiffon;
+    width: 1220px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: orator std;
+    font-size: 80px;
+
+}
+
+
+
+
+
+.levelfivepartnine {
+    
+     background: lightpink;
+    width: 1220px;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    font-family: orator std;
+    font-size: 80px;
+
+}
+
+
+
+
+
+
+
+
+
+
+.lvlfiveone{
+    background:lightblue;
+    font-size:40px;
+    font-family:sans-serif;
+    width:165px;
+    text-align:center;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+  
+    
+}
+
+
+.lvlfivetwo{
+    background:lightpink;
+    font-size:40px;
+    font-family:sans-serif;
+    width:165px;
+    text-align:center;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
+.lvlfivethree{
+    background:lightgreen;
+    font-size:40px;
+    font-family:sans-serif;
+    width:165px;
+    text-align:center;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
+.lvlfivefour{
+    
+    background:lightyellow;
+    font-size:40px;
+    font-family:sans-serif;
+    width:165px;
+    text-align:center; 
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
+#fiveone {
+    position:absolute;
+    left:100px;
+    top:100px;
+    
+}
+
+#fivetwo {
+    position:absolute;
+    left:200px;
+    top:170px;
+}
+
+#fivethree {
+    position:absolute;
+    left:300px;
+    top:240px;
+}
+
+#fivefour {
+    position:absolute;
+    left:400px;
+    top:310px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
